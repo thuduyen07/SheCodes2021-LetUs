@@ -1,5 +1,5 @@
 # SheCodes2021 - Letus
-Letus Website using HTML, CSS and Glitch.
+LetUs Website using HTML, CSS and Glitch.
 
 ## Demo link
 https://letus-layer01.glitch.me/
