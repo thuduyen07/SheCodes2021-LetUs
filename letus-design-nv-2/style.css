@@ -1,0 +1,107 @@
+body {
+  font-family: arial;
+  background: url("https://cdn.glitch.com/8d50a73e-dd38-4b0c-9f96-3490c99910a4%2Fbackground.png?v=1628907664289");
+  background-size: auto;
+  padding: 1rem;
+}
+
+header {
+  font-family: arial;
+  left: 3rem;
+  margin-top: 2rem;
+  margin-right: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10vw;
+  position: center;
+  width: 100%;
+  border-radius: 0.5rem;
+  color: #F47769;
+}
+
+footer {
+  font-family: arial;
+  font-size: 20px;
+  position: fixed;
+  bottom: 1rem;
+  background-color: no;
+  color: #F47769;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  bottom: 0;
+  background-color: no;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#login_btn {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 57px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: #FBD75A;
+  border: 0px;
+  color: #F47769;
+  text-decoration: none;
+}
+
+.input_ {
+  border: 3px solid #F47769;
+  background: #FFFFFF;
+  height: 54px;
+  width: 408px;
+  border-radius: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+::placeholder {
+  color: gray;
+  font-size: 20px;
+  font-family: arial;
+}
+
+a {
+  font-family: arial;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #F47769;
+}
+
+a:link {
+  background: #FBD75A;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  color: #F47769;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.label_{
+    color: #F47769;
+font-size: 20px;
+  margin-top: 1rem;
+  margin-bottom: .2rem;
+}

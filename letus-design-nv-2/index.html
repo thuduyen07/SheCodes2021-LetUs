@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <title>Login</title>
+
+    <link
+      href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      rel="stylesheet"
+      id="bootstrap-css"
+    />
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- Import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <header
+        class="container pt-3 text-center bg-white"
+        style="height:300; width:450;"
+      >
+        <h1>
+          THIẾT KẾ NHÂN VẬT
+        </h1>
+      </header>
+    </div>
+
+    <div class="container" style="margin:2rem;">
+      <div class="row">
+        <div class="col-sm-6">
+          <form action="/action_page.php">
+            <label class="label_" for="user_name">Tên của bạn là...</label
+            ><br />
+            <input
+              class="input_ "
+              type="text"
+              id="user_name"
+              name="user_name"
+            />
+            <label class="label_ " for="repassword">Tuổi của bạn là...</label
+            ><br />
+            <input class=" input_" type="text" id="age" name="age" />
+            <label class="label_ " for="repassword"
+              >Bạn đang ở thành phố...</label
+            ><br />
+            <input
+              class=" input_"
+              type="text"
+              id="repassword"
+              name="repassword"
+            /><br /><br />
+          </form>
+        </div>
+        <div class="col-sm-6 center">
+          <a
+            id="login_btn"
+            href="https://letus-intro.glitch.me/"
+            style="margin-top:9rem;"
+          >
+            Tạo nhân vật
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
