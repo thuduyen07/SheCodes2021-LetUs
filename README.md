@@ -2,7 +2,7 @@
 Ứng dụng LetUs viết bằng HTML, CSS and Glitch.
 
 ## Demo 
-Figma: bit.ly/2VRcCA8
+Figma: http://bit.ly/2VRcCA8 <br/>
 Website: https://letus-layer01.glitch.me/
 
 ## Description
