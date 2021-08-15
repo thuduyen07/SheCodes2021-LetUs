@@ -1,0 +1,44 @@
+body {
+  font-family: HK Grotesk;
+  background: url("https://cdn.glitch.com/8d50a73e-dd38-4b0c-9f96-3490c99910a4%2Fbackground.png?v=1628907664289");
+  background-size: auto;
+  padding: 1rem;
+}
+
+header {
+  font-family: arial;
+  left: 3rem;
+  margin-top: 2rem;
+  margin-right: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10vw;
+  position: center;
+  width: 100%;
+  border-radius: 0.5rem;
+  color: #F47769;
+}
+
+footer {
+  font-family: arial;
+  font-size: 20px;
+  position: fixed;
+  bottom: 0;
+  background-color: no;
+  color: #F47769;
+  text-align: center;
+}
+
+p{
+  font-family: arial;
+  font-size: 20px;
+  bottom: 0;
+  background-color: no;
+}
+
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
