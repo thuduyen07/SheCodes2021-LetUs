@@ -22,6 +22,12 @@ Nâng cao kỹ năng: cho phép người dùng tiếp cận đến những bài 
 Thông tin tuyển dụng: nhà tuyển dụng, tổ chức phụ nữ có thể đăng tin tuyển dụng nhằm hỗ trợ việc làm cho chị em phụ nữ, tạo ra nguồn thu nhập cho họ.
 Câu chuyện tìm việc: từ khóa là những gì LetUs mong muốn đem lại sự tiện nghi và đi thẳng vào các mối quan tâm của người dùng, cho phép người dùng tra cứu về các câu chuyện nghề nghiệp, các cảm hứng nghề mà chị em phụ nữ đã từng trải qua và chia sẻ, từ đó bản thân sẽ có thể học hỏi và rút kinh nghiệm cho chính mình.<br/>
 
+Chiến lược phát triển sản phẩm:<br/>
+-	Các đối tác tiềm năng có thể là wikilady.vn (trang đào tạo nghề cho phụ nữ) và phát triển cả về hướng tìm việc, nâng cao trình độ cho những phụ nữ nội trợ có mong muốn trở lại làm việc.<br/>
+-	Các tổ chức, dịch vụ nhỏ trên Facebook: bên Bee5 có thể hoạt động như bên trung gian.<br/>
+-	Để marketing tới các đối tượng phụ nữ khác, có thể collab với các KOLs trong cùng độ tuổi.<br/>
+
+
 ## BEE5 Team member
 1. Quỳnh Nhi<br/>
 2. Giang Giang<br/>
