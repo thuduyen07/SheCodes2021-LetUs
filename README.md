@@ -1,8 +1,9 @@
 # SheCodes2021 - Letus
 Ứng dụng LetUs viết bằng HTML, CSS and Glitch.
 
-## Demo link
-https://letus-layer01.glitch.me/
+## Demo 
+Figma: bit.ly/2VRcCA8
+Website: https://letus-layer01.glitch.me/
 
 ## Description
 Let Us là một tựa game nhập vai, cho phép phụ nữ khám phá ngôi nhà thần kỳ, mà ở đấy, họ có thể kết nối với nhau, và tìm ra giải pháp cho các vấn đề gặp phải trong cuộc sống của chính mình. Cùng với sự hỗ trợ của đội ngũ chuyên gia tư vấn tâm lý hay những người chơi khác đồng cảnh ngộ, qua tựa game này, người dùng sẽ tìm thấy bạn đồng hành, được thấu hiểu và đồng cảm, được an ủi và trở nên nhẹ nhõm hơn.<br/><br/>
@@ -21,7 +22,7 @@ Nâng cao kỹ năng: cho phép người dùng tiếp cận đến những bài 
 Thông tin tuyển dụng: nhà tuyển dụng, tổ chức phụ nữ có thể đăng tin tuyển dụng nhằm hỗ trợ việc làm cho chị em phụ nữ, tạo ra nguồn thu nhập cho họ.
 Câu chuyện tìm việc: từ khóa là những gì LetUs mong muốn đem lại sự tiện nghi và đi thẳng vào các mối quan tâm của người dùng, cho phép người dùng tra cứu về các câu chuyện nghề nghiệp, các cảm hứng nghề mà chị em phụ nữ đã từng trải qua và chia sẻ, từ đó bản thân sẽ có thể học hỏi và rút kinh nghiệm cho chính mình.<br/>
 
-## Team member
+## BEE5 Team member
 1. Quỳnh Nhi<br/>
 2. Giang Giang<br/>
 3. Van Phung<br/>
